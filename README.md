@@ -28,7 +28,6 @@
           <li>🌱 Atualmente estou estudando e evoluindo minhas habilidades nessas tecnologias</li>
           <li>😄 Pronomes: ele/dele</li>
           <li>Brasileiro Euro-Levantino</li>
-
         </ul>
       </td>
     </tr>
