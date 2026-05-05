@@ -22,10 +22,13 @@
     <tr>
       <td align="left">
         <ul>
+          <li>📚 CID and IA Studant - IMT</li>
           <li>🔭 Atualmente trabalho com Python, ETL, Pipelines, LLMs, Machine Learning, SQL, Redes Neurais, Power BI e Excel!</li>
           <li>🗳️ Ocasionalmente usando: Java, HTML, CSS, JavaScript e Node.js.</li>
           <li>🌱 Atualmente estou estudando e evoluindo minhas habilidades nessas tecnologias</li>
           <li>😄 Pronomes: ele/dele</li>
+          <li>Brasileiro Euro-Levantino</li>
+
         </ul>
       </td>
     </tr>
