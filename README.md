@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Eai =)</h2>
+  <h2>Hey Hey =)</h2>
   <p>
-    Me chamo Omar, sou Dev Full Stack focado na área de Dados e I.A.
+    Yo, I am Omar — a Full Stack Developer focused on Data Engineering, Artificial Intelligence, and Backend Development.
   </p>
 </div>
 
@@ -22,12 +22,12 @@
     <tr>
       <td align="left">
         <ul>
-          <li>📚 CID and IA Studant - IMT</li>
-          <li>🔭 Atualmente trabalho com Python, ETL, Pipelines, LLMs, Machine Learning, SQL, Redes Neurais, Power BI e Excel!</li>
-          <li>🗳️ Ocasionalmente usando: Java, HTML, CSS, JavaScript, Node.js e React.</li>
-          <li>🌱 Atualmente estou estudando e evoluindo minhas habilidades nessas tecnologias</li>
-          <li>😄 Pronomes: ele/dele</li>
-          <li>Brasileiro Euro-Levantino</li>
+          <li>📚 Data Science & Artificial Intelligence Student @ Instituto Mauá de Tecnologia (IMT)</li>
+          <li>🔭 Currently working with Python, ETL, Data Pipelines, LLMs, Machine Learning, SQL, Neural Networks, Power BI, and Excel</li>
+          <li>🛠️ Also experienced with Java, HTML, CSS, JavaScript, Node.js, and React</li>
+          <li>🌱 Continuously improving my skills in data, AI, software development, and analytics</li>
+          <li>😄 Pronouns: he/him</li>
+          <li>🇧🇷 Brazilian with Euro-Levantine heritage</li>
         </ul>
       </td>
     </tr>
