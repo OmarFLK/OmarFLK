@@ -35,19 +35,6 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarFLK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats de Omar" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFLK&layout=compact&langs_count=16&theme=tokyonight" alt="Top linguagens de Omar" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarFLK/OmarFLK/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarFLK/OmarFLK/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/OmarFLK/OmarFLK/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/omar_a_h_s/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-BFDBFE?style=for-the-badge&logo=instagram&logoColor=0F172A" alt="Instagram" />
   </a>
