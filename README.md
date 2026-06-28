@@ -74,7 +74,7 @@
   <tr>
     <td>
 
-```yaml
+yaml
 name: Omar Saliba
 location: São Paulo, Brazil
 education: Data Science & Artificial Intelligence @ Instituto Mauá de Tecnologia
