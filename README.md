@@ -1,10 +1,10 @@
 <div align="center">
 
-# OMAR SALIBA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:1A0709,35:4C0B13,70:991B1B,100:BE123C&text=Omar%20Saliba&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20AWS&descAlignY=59&descSize=17" alt="Omar Saliba — AI Engineering, Machine Learning and AWS" />
 
 ### AI & Machine Learning Engineering · Data Science · Backend & Cloud
 
-**🔴 Python · Java · Statistics · Linear Algebra · LLMs · RAG · AWS**
+**Python · Java · Statistics · Linear Algebra · LLMs · RAG · AWS**
 
 Data Science & Artificial Intelligence undergraduate at **Instituto Mauá de Tecnologia**  
 AI & Automation Engineering Intern at **OneBox** · Technology Consultant at **Mauá Júnior**
@@ -15,7 +15,7 @@ AI & Automation Engineering Intern at **OneBox** · Technology Consultant at **M
 
 ---
 
-## 🔴 About Me
+## About Me
 
 I build software and AI systems that connect **mathematical foundations, machine learning, backend engineering, and cloud infrastructure**.
 
@@ -29,7 +29,96 @@ I also use AI in my daily engineering workflow for exploration, implementation, 
 
 ---
 
-## 🔴 Technical Focus
+## Technology Stack
+
+My primary stack centers on **Python, Java, statistical computing, ML/LLM pipelines, backend services, and AWS infrastructure**. The tools below include technologies used in projects and those I am currently developing deeper proficiency in.
+
+### Core Languages & Mathematics
+
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=python" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=openjdk" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=postgresql" />
+  <img alt="R" src="https://img.shields.io/badge/R-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=r" />
+  <img alt="Statistics" src="https://img.shields.io/badge/Statistics-7F1D1D?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Linear Algebra" src="https://img.shields.io/badge/Linear%20Algebra-7F1D1D?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Probability" src="https://img.shields.io/badge/Probability-7F1D1D?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Calculus" src="https://img.shields.io/badge/Calculus-7F1D1D?style=for-the-badge&logoColor=FFFFFF" />
+</p>
+
+### Machine Learning & Data Science
+
+<p align="left">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=pandas" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=numpy" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=scikitlearn" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Feature Engineering" src="https://img.shields.io/badge/Feature%20Engineering-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Model Evaluation" src="https://img.shields.io/badge/Model%20Evaluation-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=powerbi" />
+  <img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=duckdb" />
+  <img alt="Parquet" src="https://img.shields.io/badge/Parquet-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=apacheparquet" />
+</p>
+
+### Generative AI & Model Engineering
+
+<p align="left">
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Gemma" src="https://img.shields.io/badge/Gemma-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="QLoRA Workflows" src="https://img.shields.io/badge/QLoRA%20Workflows-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Local Inference" src="https://img.shields.io/badge/Local%20Inference-BE123C?style=for-the-badge&logoColor=FFFFFF" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=fastapi" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=springboot" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-7F1D1D?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=postgresql" />
+  <img alt="Neon" src="https://img.shields.io/badge/Neon-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=neon" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=mongodb" />
+  <img alt="React" src="https://img.shields.io/badge/React-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=react" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=flutter" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=dart" />
+</p>
+
+### AWS, Infrastructure & Deployment
+
+<p align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="ECS" src="https://img.shields.io/badge/ECS-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Lambda" src="https://img.shields.io/badge/Lambda-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="S3" src="https://img.shields.io/badge/S3-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="RDS" src="https://img.shields.io/badge/RDS-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="SQS" src="https://img.shields.io/badge/SQS-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="CodePipeline" src="https://img.shields.io/badge/CodePipeline-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=docker" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-991B1B?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=render" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-991B1B?style=for-the-badge&logoColor=FFFFFF&logo=vercel" />
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=git" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=github" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=linux" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=postman" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-7F1D1D?style=for-the-badge&logoColor=FFFFFF" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-7F1D1D?style=for-the-badge&logoColor=FFFFFF&logo=jupyter" />
+</p>
+
+---
+
+## Technical Focus
 
 | Area | What I work with |
 | :-- | :-- |
@@ -61,7 +150,29 @@ I study **Statistics and Linear Algebra as engineering tools**, not just academi
 
 ---
 
-## 🔴 Selected Projects
+## Engineering Notes
+
+A few principles I apply when designing AI and data systems:
+
+> **01 / Reliable ML starts with reliable data.** I look at data quality, missing values, leakage, sampling, and evaluation methodology before interpreting model scores. A higher metric is only useful when the experiment is reproducible and the validation is trustworthy.
+
+> **02 / RAG and exact analytics solve different problems.** Semantic retrieval helps a model find relevant context in documents. Numerical business questions should use validated queries against structured data, with the model explaining the result instead of inventing the number.
+
+> **03 / A model is one component of a production system.** Authentication, secret management, latency, cost, monitoring, observability, and failure handling matter as much as the prompt or model choice. I design APIs and deployment workflows with these constraints in mind.
+
+> **04 / Fine-tuning is a measured engineering decision.** I study dataset design and parameter-efficient methods such as QLoRA, and distinguish prepared training pipelines from completed training runs. Retrieval, evaluation, and domain adaptation should each have a clear purpose.
+
+**Typical RAG architecture**
+
+```text
+Source documents → Cleaning & chunking → Embeddings → Vector index
+                                                   ↓
+User question → Retrieval → Relevant context → LLM → Answer + validation
+```
+
+---
+
+## Selected Projects
 
 ### 01. [MAUA_IA — LLM-Powered Mobility Analyst](https://github.com/OmarFLK/MAUA_IA)
 
@@ -129,7 +240,7 @@ A full-stack restaurant reservation system featuring authenticated flows, table 
 
 ---
 
-## 🔴 Professional Experience
+## Professional Experience
 
 **AI & Automation Engineering Intern — OneBox**  
 Working on software automation, backend systems, API integration, and cloud-based engineering workflows. Hands-on experience with AWS services, debugging, operational tooling, and the reliability of business applications.
@@ -139,7 +250,7 @@ Developing technology solutions across software engineering, AI initiatives, aut
 
 ---
 
-## 🔴 Current Learning & Research Direction
+## Current Learning & Research Direction
 
 My priority is to deepen the **ML engineering fundamentals** required to build, train, adapt, evaluate, and deploy models—not only integrate existing AI services.
 
@@ -151,7 +262,7 @@ My priority is to deepen the **ML engineering fundamentals** required to build, 
 
 ---
 
-## 🔴 More Software Engineering Work
+## More Software Engineering Work
 
 Alongside AI and data projects, I've built applications for **e-commerce, inventory and ERP integration, dashboards, business automation, and educational software**. Earlier work includes **Sultan Essence**, **Avenida Tintas**, and **QuimLab** (Java, Swing, MySQL).
 
@@ -161,12 +272,14 @@ These projects strengthened the software engineering foundation I bring to AI sy
 
 <div align="center">
 
-### 🔴 Let's Connect
+### Let's Connect
 
 Interested in **machine learning, generative AI, software engineering, and real-world AI systems**.
 
 [**Explore my repositories**](https://github.com/OmarFLK?tab=repositories) · [**Get in touch**](mailto:omarsalibaescola@gmail.com)
 
 <sub>Built around real projects, reproducible learning, and continuous improvement.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A0709,50:991B1B,100:BE123C" alt="Crimson wave footer" />
 
 </div>
