@@ -1,183 +1,172 @@
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:1D4ED8,100:60A5FA&text=Omar%20Saliba&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Backend%20%7C%20Automation&descAlignY=58&descSize=16"
-alt="Header"
-/>
+# OMAR SALIBA
 
-</div>
+### AI & Machine Learning Engineering · Data Science · Backend & Cloud
 
-<div align="center">
+**🔴 Python · Java · Statistics · Linear Algebra · LLMs · RAG · AWS**
 
-# Hi, I'm Omar 👋
+Data Science & Artificial Intelligence undergraduate at **Instituto Mauá de Tecnologia**  
+AI & Automation Engineering Intern at **OneBox** · Technology Consultant at **Mauá Júnior**
 
-**Data Science & Artificial Intelligence student at Instituto Mauá de Tecnologia**
-Focused on building intelligent, useful and scalable systems.
+[**GitHub**](https://github.com/OmarFLK) · [**Projects**](https://github.com/OmarFLK?tab=repositories) · [**Email**](mailto:omarsalibaescola@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## 🔴 About Me
 
-I'm a developer focused on **data, artificial intelligence, automation and backend architecture**.
+I build software and AI systems that connect **mathematical foundations, machine learning, backend engineering, and cloud infrastructure**.
 
-My current work connects software engineering with real business problems: APIs, dashboards, databases, automation flows, product systems and AI-powered workflows.
+My work spans **retrieval-augmented generation (RAG), embeddings, vector search, LLM integrations, data pipelines, API development, and deploying applications**. I work with open-weight language models, including the **Gemma and Qwen families**, and explore local inference and resource-efficient model adaptation.
 
-* Studying **Data Science and Artificial Intelligence**
-* Building projects with **React, Node.js, PostgreSQL, Prisma and Python**
-* Interested in **AI agents, ETL pipelines, BI, automation and scalable web systems**
-* Working on real projects involving **e-commerce, inventory, dashboards, integrations and internal AI tools**
+I'm especially interested in what happens *beyond the prompt*: preparing and validating data, understanding model behavior, designing reliable retrieval, evaluating results, connecting models to real systems, and operating the infrastructure behind them.
 
----
+I also use AI in my daily engineering workflow for exploration, implementation, debugging, documentation, and testing—while treating generated output as something to **review, verify, and measure**, not blindly trust.
 
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=60A5FA" />
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Prisma-020617?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/REST%20APIs-020617?style=for-the-badge&logo=fastapi&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/JWT-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=FACC15" />
-</p>
-
-### Databases & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Neon-0F172A?style=for-the-badge&logo=neon&logoColor=00E599" />
-  <img src="https://img.shields.io/badge/Railway-0F172A?style=for-the-badge&logo=railway&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=46E3B7" />
-  <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-</p>
-
-### Data, AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/Power%20BI-020617?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/ETL-020617?style=for-the-badge&logo=databricks&logoColor=EF4444" />
-  <img src="https://img.shields.io/badge/n8n-020617?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
-  <img src="https://img.shields.io/badge/AI%20Agents-020617?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA" />
-</p>
+> **My direction:** AI Engineer / Machine Learning Engineer — building and operationalizing intelligent systems, from data and models to APIs and infrastructure.
 
 ---
 
-## Current Focus
+## 🔴 Technical Focus
 
-```txt
-AI automation
-Data pipelines
-Backend architecture
-Business intelligence
-API integrations
-E-commerce systems
-```
+| Area | What I work with |
+| :-- | :-- |
+| **Mathematical foundations** | Statistics, probability, linear algebra, calculus, descriptive and inferential analysis |
+| **Machine learning & data** | Exploratory data analysis, preprocessing, feature engineering, regression, classification, model evaluation, Pandas, NumPy, scikit-learn |
+| **Generative AI & LLMs** | RAG, embeddings, vector retrieval, prompt design, model integration, Gemma, Qwen, fine-tuning workflows and QLoRA preparation |
+| **Languages** | **Python, Java, SQL**, Dart, JavaScript, TypeScript |
+| **Backend engineering** | FastAPI, Spring Boot, REST APIs, authentication, service integration, asynchronous workflows |
+| **Data systems** | PostgreSQL, Neon, MongoDB Atlas, DuckDB, Parquet, FAISS, relational and document data modeling |
+| **Cloud & infrastructure** | **AWS** (ECS, Lambda, S3, RDS, SQS, CloudWatch, CodePipeline, Secrets Manager), Docker, CI/CD, Render, Vercel |
+| **Applications & tooling** | Flutter, React, Git, GitHub, Postman, Power BI, Linux |
 
----
+### Mathematics behind the models
 
-## Featured Work
+I study **Statistics and Linear Algebra as engineering tools**, not just academic subjects:
 
-### Sultan Essence
+- **Statistics & probability:** distributions, dispersion, sampling, confidence intervals, hypothesis testing, correlation, and regression.
+- **Linear algebra:** vectors, matrices, linear transformations, systems of equations, eigenvalues, and eigenvectors.
+- **Machine learning:** data preparation, supervised learning, validation, error analysis, and performance metrics such as MAE and RMSE.
+- **Data engineering:** reproducible transformations, dataset quality, deduplication, structured storage, and query validation.
 
-E-commerce project for a perfume store, integrating product catalog, authentication, cart, checkout flow and future ERP synchronization.
+### From LLM experiments to working systems
 
-**Stack:** React, Node.js, Express, Prisma, PostgreSQL, Neon, Bling API
-
-### Avenida Tintas
-
-Operational system for inventory conference, product readings, divergence tracking and ERP integration.
-
-**Stack:** React, Node.js, PostgreSQL, Prisma, API integrations
-
-### QuimLab
-
-Educational chemistry game focused on learning through interaction and ranking systems.
-
-**Stack:** Java, Swing, MySQL
-
-### AI & Data Workflows
-
-Internal automation and AI workflow studies involving agents, ETL, structured processes and business reporting.
-
-**Stack:** Python, SQL, Power BI, n8n, APIs, AI agents
+- Build **RAG pipelines** that connect LLMs to curated documents and structured data.
+- Work with **embeddings, retrieval, context management, and vector search** to make answers more relevant and traceable.
+- Integrate **open-weight and API-served models** into applications with authentication, controlled access, and backend-managed secrets.
+- Prepare **fine-tuning datasets and QLoRA workflows** while studying model adaptation, inference constraints, and evaluation.
+- Develop **production-oriented APIs and deployment pipelines**, with attention to observability, testing, and operational reliability.
 
 ---
 
-## GitHub Stats
+## 🔴 Selected Projects
 
-<div align="center">
+### 01. [MAUA_IA — LLM-Powered Mobility Analyst](https://github.com/OmarFLK/MAUA_IA)
 
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=OmarFLK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=60A5FA&text_color=E5E7EB"
-/>
+**Generative AI · RAG · Data Engineering · LLM Integration**
 
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFLK&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=E5E7EB"
-/>
+An AI-assisted analytics system for municipal public transport data, combining natural-language interaction with validated data retrieval.
 
-</div>
+- Integrated **Gemma 3 27B** through an institution-hosted, OpenAI-compatible API.
+- Built a **local RAG knowledge layer** and user-isolated conversational context.
+- Processed transport datasets into **Parquet and DuckDB**, with deduplication and reproducible ingestion.
+- Used validated query plans instead of unrestricted model-generated SQL for numerical questions.
+- Prepared a **QLoRA dataset and training workflow** for future model adaptation; the fine-tuning run is not yet complete.
+
+**Stack:** Python, FastAPI, React, Gemma 3 27B, RAG, DuckDB, Parquet, SQL, Docker.
+
+### 02. [Pendi — AI-Assisted Pediatric Care Prototype](https://github.com/OmarFLK/hackaton_gamifica-o)
+
+**Hackathon-Winning Project · Applied AI · Full-Stack Engineering**
+
+A multidisciplinary hackathon project designed to support communication and engagement in pediatric oncology care through role-based experiences for families, clinicians, assistants, and children.
+
+- Built **role-aware AI conversations** backed by Gemma 27B and separated RAG contexts.
+- Developed authenticated application flows, backend APIs, and patient/family dashboards.
+- Added interactive activities with optional camera and microphone input.
+- Worked across the application lifecycle: **architecture, implementation, integration, testing, and deployment configuration**.
+
+**Stack:** Python, FastAPI, React, PostgreSQL, Neon, RAG, Gemma, Vercel, Render.
+
+*Academic demonstration using fictional data; not validated for clinical use.*
+
+### 03. [SEMOB — Municipal Mobility Operations Platform](https://github.com/OmarFLK/Projeto_Integrador_SEMOB)
+
+**Data Platforms · Backend · Analytics · System Architecture**
+
+An end-to-end platform for analyzing and managing public transport operations in São Caetano do Sul.
+
+- Built a **Flutter application and Dart/Shelf backend** with authenticated access.
+- Modeled relational and document data using **PostgreSQL/Neon and MongoDB**.
+- Developed ingestion and normalization workflows for operational reports, preserving **91,108 trip records** in the canonical dataset.
+- Implemented operational dashboards, filters, exports, and data-quality controls.
+- Prepared an integration bridge for an external AI service; the production connection requires its final API contract.
+
+**Stack:** Flutter, Dart, REST APIs, PostgreSQL, Neon, MongoDB, data ingestion, cloud deployment architecture.
+
+### 04. [Statistics & Exploratory Data Analysis](https://github.com/OmarFLK/atividade01_ICD203)
+
+**Applied Statistics · Python · R · Data Analysis**
+
+Academic work applying statistical reasoning to real datasets:
+
+- Descriptive statistics, distributions, missing-data treatment, and visualizations.
+- Data cleaning, transformation, and exploratory analysis in **Python and R**.
+- Comparison of election polling estimates with historical outcomes using **MAE, RMSE, and error analysis**.
+- Documentation of dataset limitations, processing decisions, and interpretation of results.
+
+**Stack:** Python, R, Pandas, NumPy, Matplotlib, statistical analysis.
+
+### 05. [Restaurant Reservation System](https://github.com/OmarFLK/sistemaReservaRestaurantes)
+
+**Backend Engineering · APIs · Databases**
+
+A full-stack restaurant reservation system featuring authenticated flows, table management, administrative operations, and API-backed reservations.
+
+**Stack:** React, FastAPI, PostgreSQL, Neon, REST APIs.
 
 ---
 
-## Contact
+## 🔴 Professional Experience
 
-<p>
-  <a href="mailto:omarsalibaescola@gmail.com">
-    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://github.com/OmarFLK">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</p>
+**AI & Automation Engineering Intern — OneBox**  
+Working on software automation, backend systems, API integration, and cloud-based engineering workflows. Hands-on experience with AWS services, debugging, operational tooling, and the reliability of business applications.
+
+**Technology Consultant — Mauá Júnior**  
+Developing technology solutions across software engineering, AI initiatives, automation, and data-oriented projects, collaborating on technical delivery and practical business problems.
+
+---
+
+## 🔴 Current Learning & Research Direction
+
+My priority is to deepen the **ML engineering fundamentals** required to build, train, adapt, evaluate, and deploy models—not only integrate existing AI services.
+
+1. **Machine learning:** stronger hands-on implementations of regression, classification, feature selection, validation, and experiment tracking.
+2. **Deep learning & LLMs:** neural network fundamentals, transformers, parameter-efficient fine-tuning, and rigorous evaluation.
+3. **AI systems:** RAG quality, retrieval evaluation, agent orchestration, and dependable AI-enabled backends.
+4. **MLOps & AWS:** repeatable model pipelines, containers, deployment, monitoring, and infrastructure automation.
+5. **Public technical work:** reproducible experiments, model artifacts, clear documentation, and measurable results.
+
+---
+
+## 🔴 More Software Engineering Work
+
+Alongside AI and data projects, I've built applications for **e-commerce, inventory and ERP integration, dashboards, business automation, and educational software**. Earlier work includes **Sultan Essence**, **Avenida Tintas**, and **QuimLab** (Java, Swing, MySQL).
+
+These projects strengthened the software engineering foundation I bring to AI systems: **data modeling, authentication, API design, integration, and end-to-end delivery**.
 
 ---
 
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1D4ED8,100:60A5FA"
-/>
+### 🔴 Let's Connect
+
+Interested in **machine learning, generative AI, software engineering, and real-world AI systems**.
+
+[**Explore my repositories**](https://github.com/OmarFLK?tab=repositories) · [**Get in touch**](mailto:omarsalibaescola@gmail.com)
+
+<sub>Built around real projects, reproducible learning, and continuous improvement.</sub>
 
 </div>
